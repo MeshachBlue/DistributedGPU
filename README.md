@@ -5,6 +5,9 @@ Should all of the following 4 steps be completed successfully this would result 
 
 A worker client would be made available based on [Bitcoin](https://www.weusecoins.com/en/) transactions that would accept these computation requests in return for being paid in Bitcoin. This worker client would default to running a "Bitcoin miner" if nothing more profitable was available.
 
+Licence
+=========
+This repository is licenced under the Creative Commons Attribution-ShareAlike 3.0 Unported licence. The "human readable summary" of this licence can be found at [here](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). The full licence is available [here](http://creativecommons.org/licenses/by-sa/3.0/legalcode) or in the LICENCE file within this repository.
 
 Stage 1
 ==========
