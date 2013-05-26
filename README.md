@@ -7,7 +7,7 @@ A worker client would be made available based on [Bitcoin](https://www.weusecoin
 
 Licence
 =========
-This repository is licenced under the Creative Commons Attribution-ShareAlike 3.0 Unported licence. The "human readable summary" of this licence can be found at [here](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). The full licence is available [here](http://creativecommons.org/licenses/by-sa/3.0/legalcode) or in the LICENCE file within this repository.
+This repository and all work contained within is licenced under the Creative Commons Attribution-ShareAlike 3.0 Unported licence. The "human readable summary" of this licence can be found [here](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). The full licence is available [here](http://creativecommons.org/licenses/by-sa/3.0/legalcode) or in the LICENCE file within this repository.
 
 Stage 1
 ==========
