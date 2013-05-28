@@ -8,6 +8,10 @@ Licence
 =========
 This work is licenced under [CC-BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/).
 
+Stage 0
+==========
+Write a "finding pi" Monte Carlo in WebCl, OpenCl and C then compare speeds. Find out the amount of computation time lost through WebCl instead of OpenCl.
+
 Stage 1
 ==========
 Build a "simple" [Monte Carlo](http://www.crcpress.com/product/isbn/9781466507920) iteration for the use on a [phantom](http://en.wikipedia.org/wiki/Imaging_phantom) in a clinical setting using javascript [WebCl](http://www.khronos.org/webcl/) through [Nokia's plugin](http://webcl.nokiaresearch.com/extensions/firefox/multiplatform/latest/webcl-1.0.xpi) in [Firefox 21](http://www.firefox.com/).
