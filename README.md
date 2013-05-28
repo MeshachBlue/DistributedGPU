@@ -10,7 +10,7 @@ This work is licenced under [CC-BY-SA 3.0](http://creativecommons.org/licenses/b
 
 Stage 0
 ==========
-Write a "finding pi" Monte Carlo in WebCl, OpenCl and C then compare speeds. Find out the amount of computation time lost through WebCl instead of OpenCl.
+Write a "finding pi" Monte Carlo in WebCl, OpenCl (GPU) and C+ (CPU) then compare speeds. Find out the amount of computation time lost through WebCl instead of OpenCl.
 
 Stage 1
 ==========
